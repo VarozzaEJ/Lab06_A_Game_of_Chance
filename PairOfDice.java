@@ -1,4 +1,3 @@
-import java.util.Random;
 
 public class PairOfDice {
     private Die die1, die2;
